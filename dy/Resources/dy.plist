@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>dyHeader</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>ztl</string>
+    <key>label</key>
+    <string>显示状态栏</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>gbsy</string>
+			<key>label</key>
+			<string>关闭下载水印</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>yxxz</string>
+			<key>label</key>
+			<string>允许风险视频下载</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>zdbf</string>
+			<key>label</key>
+			<string>自动播放</string>
+		</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>xhbf</string>
+    <key>label</key>
+    <string>打开循环播放</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>gbgg</string>
+			<key>label</key>
+			<string>关闭启动广告</string>
+		</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>sjdz</string>
+    <key>label</key>
+    <string>关闭双击点赞</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>lltx</string>
+    <key>label</key>
+    <string>关闭流量提醒</string>
+</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>thyx</string>
+			<key>label</key>
+			<string>关闭消息界面头号英雄</string>
+		</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>yxjsz</string>
+    <key>label</key>
+    <string>关闭右下角数字</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>dy</string>
+			<key>icon</key>
+			<string>UI</string>
+			<key>key</key>
+			<string>spms</string>
+			<key>label</key>
+			<string>视频上传300秒</string>
+		</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>hbhf</string>
+    <key>label</key>
+    <string>关闭领红包横幅</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>gwc</string>
+    <key>label</key>
+    <string>关闭左下角购物弹窗</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>tkgg</string>
+    <key>label</key>
+    <string>关闭其他广告</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>cjms</string>
+    <key>label</key>
+    <string>纯净模式</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>jjfx</string>
+    <key>label</key>
+    <string>精简分享</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>pbwx</string>
+    <key>label</key>
+    <string>关闭微信分享</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>pbqq</string>
+    <key>label</key>
+    <string>关闭QQ分享</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>dsxz</string>
+    <key>label</key>
+    <string>关闭多闪下载</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>dbgd</string>
+    <key>label</key>
+    <string>缩小底部高度</string>
+</dict>
+<dict>
+    <key>cell</key>
+    <string>PSSwitchCell</string>
+    <key>default</key>
+    <false/>
+    <key>defaults</key>
+    <string>dy</string>
+    <key>icon</key>
+    <string>UI</string>
+    <key>key</key>
+    <string>tc2</string>
+    <key>label</key>
+    <string>关闭青少年弹窗</string>
+</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>开启无效请注销！</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>zx</string>
+			<key>label</key>
+			<string>注销</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>如果您觉得我的插件对你有所帮助~可以给我捐赠！感谢您的支持！</string>
+			<key>label</key>
+			<string>关于作者</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>dgn</string>
+			<key>isController</key>
+			<string>1</string>
+			<key>label</key>
+			<string>作者: Aidan·Alice源</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Alice</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Cydia</string>
+			<key>label</key>
+			<string>添加作者源</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>Donate</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>zcw</string>
+			<key>label</key>
+			<string>请我喝瓶可乐</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>Version: 2.2
+本插件完全免费，仅供学习交流，禁止商业用途。
+
+Copyright © 2020 Aidan. Alice源 . All rights reserved.</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>抖音小助手</string>
+</dict>
+</plist>
